@@ -1,0 +1,44 @@
+body {
+  background-color: blanchedalmond;
+}
+.container {
+  text-align: center;
+  height: 75vh;
+}
+
+.outer {
+  border: 3px solid black;
+  height: 15px;
+  width: 300px;
+  margin: 20px auto;
+  border-radius: 5px;
+}
+
+.inner {
+  background: crimson;
+  height: 100%;
+  width: 100%;
+}
+
+a {
+  text-decoration: none;
+  color: grey;
+}
+
+button {
+  width: 12%;
+  padding: 5px;
+  background: rgb(53, 53, 53);
+  color: aliceblue;
+  border: none;
+  border-radius: 5px;
+}
+
+button:hover {
+  background: rgb(85, 85, 85);
+  color: aliceblue;
+}
+
+.footer {
+  text-align: center;
+}
